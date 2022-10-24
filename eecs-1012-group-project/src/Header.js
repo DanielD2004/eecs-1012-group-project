@@ -4,9 +4,9 @@ import './Header.css';
 function Header() {
   return (
     <div id="header">
-        <div>hey</div>
+        <div>This is</div>
         <div id="title">Image Finder</div>
-        <div>hey</div>
+        <div>A test</div>
     </div>
   )
 }
