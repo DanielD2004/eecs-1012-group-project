@@ -12,7 +12,7 @@ function Header() {
             </div>
         </a>
         <div className='title'>Image Finder</div>
-        <div className='help'><a target="_blank" href="https://github.com/DanielD2004/eecs-1012-group-project/blob/main/README.old.md"><span>?</span></a></div>
+        <a target="_blank" href="https://github.com/DanielD2004/eecs-1012-group-project/blob/main/README.old.md"><div className='help'><span>?</span></div></a>
     </div>
   )
 }
