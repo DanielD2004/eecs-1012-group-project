@@ -1,0 +1,49 @@
+.header {
+    font-size:25px;
+    display:flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-bottom: 2px solid black;
+    height:55px;
+    line-height: 55px;
+}
+
+.title{
+    font-size:40px;
+}
+.help, .title {
+    font-weight:bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hamburger{
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+}
+
+.line {
+    width:25px;
+    height:5px;
+    background-color: black;
+    margin-bottom:2px;
+}
+
+.help{
+    border-radius: 100%;
+    background-color: silver;
+    height:40px;
+    width:40px;
+}
+
+span{
+    margin-left:12px;
+    margin-bottom:18px;
+}
+
