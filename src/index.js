@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './Header';
 import Display from './Display';
+import Search from './Search';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,6 +13,7 @@ root.render(
     {/* <App /> */}
     <Header />
     <Display />
+    <Search />
   </React.StrictMode>
 );
 

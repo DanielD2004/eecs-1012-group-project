@@ -1,0 +1,23 @@
+input{
+    margin-top: 50px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+label {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#item {
+    height:45px;
+    width:200px;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+    background-color:silver;
+    font-weight:bold;
+}
